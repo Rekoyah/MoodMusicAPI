@@ -1,0 +1,64 @@
+{
+    "happy": [
+        {
+            "mood": "Happy",
+            "title": "Happy",
+            "artist": "Pharrell Williams"
+        },
+        {
+            "mood": "Happy",
+            "title": "Blinding Lights",
+            "artist": "The Weeknd"
+        },
+        {
+            "mood": "Happy",
+            "title": "heart beats better",
+            "artist": "lovelytheband"
+        },
+        {
+            "mood": "Happy",
+            "title": "Good Life",
+            "artist": "Kanye West ft. T-Pain"
+        },
+        {
+            "mood": "Happy",
+            "title": "Let the Groove Get In",
+            "artist": "Justin Timberlake"
+        },
+        {
+            "mood": "Happy",
+            "title": "Starships",
+            "artist": "Nicki Minaj"
+        },
+        {
+            "mood": "Happy",
+            "title": "My House",
+            "artist": "Flo Rida"
+        },
+        {
+            "mood": "Happy",
+            "title": "I Like You (A Happier Song)",
+            "artist": "Post Malone ft. Doja Cat"
+        },
+        {
+            "mood": "Happy",
+            "title": "XO",
+            "artist": "Beyoncé"
+        },
+        {
+            "mood": "Happy",
+            "title": "Pocketful of Sunshine",
+            "artist": "Natasha Bedingfield"
+        },
+        {
+            "mood": "Happy",
+            "title": "Confident",
+            "artist": "Justin Bieber ft. Chance the Rapper"
+        },
+        {
+            "mood": "Happy",
+            "title": "Agua",
+            "artist": "Tainy & J Balvin"
+        }
+    ]
+}

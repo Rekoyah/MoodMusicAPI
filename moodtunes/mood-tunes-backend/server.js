@@ -1,12 +1,14 @@
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
+const path = require('path');
 
 const app = express();
 const PORT = 5000;
 
 
 app.use(cors());
+app.use(express.static(path.join(__dirname, 'src/build')));
 
 const songs = JSON.parse(fs.readFileSync('./moodmusicdata.json', 'utf-8'));
 
@@ -19,6 +21,10 @@ app.get('/api/songs', (req, res) => {
   }
 
   res.json(songs[mood]);
+});
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'src/build/index.html'));
 });
 
 

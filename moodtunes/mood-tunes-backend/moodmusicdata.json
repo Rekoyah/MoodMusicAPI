@@ -259,76 +259,87 @@
 ],
 "angry": [
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 37,
+        "mood": "Angry",
+        "title": "I Knew You Were Trouble",
+        "artist": "Taylor Swift",
+        "youtube_link": "https://www.youtube.com/watch?v=vNoKguSdy4Y&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=1&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 38,
+        "mood": "Angry",
+        "title": "I Don't Fuck With You",
+        "artist": "Big Sean",
+        "youtube_link": "https://www.youtube.com/watch?v=cZaJYDPY-YQ&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=2&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 39,
+        "mood": "Angry",
+        "title": "Say Goodbye",
+        "artist": "Chris Brown",
+        "youtube_link": "https://www.youtube.com/watch?v=GJ26gAc7BtU&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=3&pp=iAQB8AUB0gcJCY0JAYcqIYzv"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 40,
+        "mood": "Angry",
+        "title": "Take A Bow",
+        "artist": "Rihanna",
+        "youtube_link": "https://www.youtube.com/watch?v=J3UjJ4wKLkg&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=4&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 41,
+        "mood": "Angry",
+        "title": "So What",
+        "artist": "P!nk",
+        "youtube_link": "https://www.youtube.com/watch?v=FJfFZqTlWrQ&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=5&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 42,
+        "mood": "Angry",
+        "title": "Before He Cheats",
+        "artist": "Carrie Underwood"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 43,
+        "mood": "Angry",
+        "title": "Bust Your Windows",
+        "artist": "Jazmine Sullivan",
+        "youtube_link": "https://www.youtube.com/watch?v=mOzdfaEPaR0&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=7&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 44,
+        "mood": "Angry",
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "youtube_link": "https://www.youtube.com/watch?v=xFYQQPAOz7Y&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=8&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 45,
+        "mood": "Angry",
+        "title": "Mad",
+        "artist": "Ne-Yo",
+        "youtube_link": "https://www.youtube.com/watch?v=sAYuOc7_TKg&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=9&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 46,
+        "mood": "Angry",
+        "title": "I Hope",
+        "artist": "Gabby Barrett",
+        "youtube_link": "https://www.youtube.com/watch?v=qcCH6JpcK5w&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=10&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 47,
+        "mood": "Angry",
+        "title": "Divine",
+        "artist": "All That Remains",
+        "youtube_link": "https://www.youtube.com/watch?v=01rW8JxwpO8&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=11&pp=iAQB8AUB"
     },
     {
-        "id": 14,
-        "mood": "Sad",
-        "title": "The Birds Pt. 2",
-        "artist": "The Weeknd"
+        "id": 48,
+        "mood": "Angry",
+        "title": "I'm Upset",
+        "artist": "Drake",
+        "youtube_link": "https://www.youtube.com/watch?v=6wstheXsdUk&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=12&pp=iAQB8AUB0gcJCY0JAYcqIYzv"
     }
 ]
     

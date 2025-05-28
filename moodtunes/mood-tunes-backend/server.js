@@ -13,7 +13,7 @@ app.use(express.static(path.join(__dirname, 'src/build')));
 const songs = JSON.parse(fs.readFileSync('./moodmusicdata.json', 'utf-8'));
 
 
-app.get('/api/songs', (req, res) => {
+app.get('/api/songs/', (req, res) => {
   const mood = req.query.mood;
 
   if (!mood || !songs[mood]) {
@@ -23,9 +23,9 @@ app.get('/api/songs', (req, res) => {
   res.json(songs[mood]);
 });
 
-app.get('*', (req, res) => {
-  res.sendFile(path.join(__dirname, 'src/build/index.html'));
-});
+// app.get('*', (req, res) => {
+//   res.sendFile(path.join(__dirname, 'src/build/index.html'));
+// });
 
 
 app.listen(PORT, () => {

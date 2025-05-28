@@ -1,55 +1,346 @@
-[
-  { "id": "happy-1", "mood": "happy", "title": "Happy", "artist": "Pharrell Williams", "youtube_url": "https://www.youtube.com/watch?v=ZbZSe6N_BXs&pp=ygUOaGFwcHkgcGhhcnJlbGw%3D" },
-  { "id": "happy-2", "mood": "happy", "title": "Blinding Lights", "artist": "The Weeknd", "youtube_url": "https://www.youtube.com/watch?v=fHI8X4OXluQ&pp=ygUcYmxpbmRpbmcgbGlnaHRzIC0gdGhlIHdlZWtuZA%3D%3D" },
-  { "id": "happy-3", "mood": "happy", "title": "Heart Beats Better", "artist": "lovelytheband", "youtube_url": "https://www.youtube.com/watch?v=9tdS6dyfmzQ&pp=ygUSaGVhcnQgYmVhdHMgYmV0dGVy" },
-  { "id": "happy-4", "mood": "happy", "title": "Good Life", "artist": "Kanye West ft. T-Pain", "youtube_url": "https://www.youtube.com/watch?v=FEKEjpTzB0Q&pp=ygUUZ29vZCBsaWZlIGthbnllIHdlc3Q%3D" },
-  { "id": "happy-5", "mood": "happy", "title": "Let the Groove Get In", "artist": "Justin Timberlake", "youtube_url": "https://www.youtube.com/watch?v=K8JyRko65L8&pp=ygUnbGV0IHRoZSBncm9vdmUgZ2V0IGluIGp1c3RpbiB0aW1iZXJsYWtl0gcJCbAJAYcqIYzv" },
-  { "id": "happy-6", "mood": "happy", "title": "Starships", "artist": "Nicki Minaj", "youtube_url": "https://www.youtube.com/watch?v=SeIJmciN8mo&pp=ygUVc3RhcnNoaXBzIG5pY2tpIG1pbmFq" },
-  { "id": "happy-7", "mood": "happy", "title": "My House", "artist": "Flo Rida", "youtube_url": "https://www.youtube.com/watch?v=uo35R9zQsAI&pp=ygURbXkgaG91c2UgZmxvIHJpZGHSBwkJsAkBhyohjO8%3D" },
-  { "id": "happy-8", "mood": "happy", "title": "I Like You (A Happier Song)", "artist": "Post Malone ft. Doja Cat", "youtube_url": "https://www.youtube.com/watch?v=7aekxC_monc&pp=ygUWaSBsaWtlIHlvdSBwb3N0IG1hbG9uZdIHCQmwCQGHKiGM7w%3D%3D" },
-  { "id": "happy-9", "mood": "happy", "title": "XO", "artist": "Beyoncé", "youtube_url": "https://www.youtube.com/watch?v=3xUfCUFPL-8&pp=ygUKeG8gYmV5b25jZQ%3D%3D" },
-  { "id": "happy-10", "mood": "happy", "title": "Pocketful of Sunshine", "artist": "Natasha Bedingfield", "youtube_url": "https://www.youtube.com/watch?v=gte3BoXKwP0&pp=ygUVcG9ja2V0ZnVsIG9mIHN1bnNoaW5l" },
-  { "id": "happy-11", "mood": "happy", "title": "Confident", "artist": "Justin Bieber ft. Chance the Rapper", "youtube_url": "https://www.youtube.com/watch?v=47YClVMlthI&pp=ygUXY29uZmlkZW50IGp1c3RpbiBiaWViZXI%3D" },
-  { "id": "happy-12", "mood": "happy", "title": "Agua", "artist": "Tainy & J Balvin", "youtube_url": "https://www.youtube.com/watch?v=QLz9VaksClg&pp=ygUTYWd1YSB0YWlueSBqIGJhbHZpbg%3D%3D" },
-
-
-  { "id": "sad-1", "mood": "sad", "title": "When the Party's Over", "artist": "Billie Eilish", "youtube_url": "https://www.youtube.com/watch?v=pbMwTqkKSps&pp=ygUjd2hlbiB0aGUgcGFydHkncyBvdmVyIGJpbGxpZSBlaWxpc2g%3D"},
-  { "id": "sad-2", "mood": "sad", "title": "The Birds Pt.2", "artist": "The Weeknd", "youtube_url": "https://www.youtube.com/watch?v=9FE-Pwm2cyc&pp=ygUZdGhlIGJpcmRzIHB0IDIgdGhlIHdlZWtuZA%3D%3D" },
-  { "id": "sad-3", "mood": "sad", "title": "Grieving", "artist": "Kehlani ft. James Blake", "youtube_url": "https://www.youtube.com/watch?v=E6_3X3ofJVg&pp=ygUQa2VobGFuaSBncmlldmluZw%3D%3D" },
-  { "id": "sad-4", "mood": "sad", "title": "Bad News", "artist": "Kanye West", "youtube_url": "https://www.youtube.com/watch?v=1BlH1JZBeXI&pp=ygUTYmFkIG5ld3Mga2FueWUgd2VzdA%3D%3D"},
-  { "id": "sad-5", "mood": "sad", "title": "Bad Religion", "artist": "Frank Ocean", "youtube_url": "https://www.youtube.com/watch?v=JMpypbtrcCg&pp=ygUYYmFkIHJlbGlnaW9uIGZyYW5rIG9jZWFu" },
-  { "id": "sad-6", "mood": "sad", "title": "Ten", "artist": "Johnny Rain", "youtube_url": "https://www.youtube.com/watch?v=LTxALOGNHX0&pp=ygUPam9obm55IHJhaW4gdGVu" },
-  { "id": "sad-7", "mood": "sad", "title": "Do Better", "artist": "Ab-Soul", "youtube_url": "https://www.youtube.com/watch?v=baTxdSdYR5E&pp=ygURZG8gYmV0dGVyIGFiIHNvdWw%3D" },
-  { "id": "sad-8", "mood": "sad", "title": "I Am Not Okay", "artist": "Jelly Roll", "youtube_url": "https://www.youtube.com/watch?v=Qop5XLgwkNc&pp=ygUYamVsbHkgcm9sbCBpIGFtIG5vdCBva2F5" },
-  { "id": "sad-9", "mood": "sad", "title": "I Like Your More in My Dreams", "artist": "Heather Sommer", "youtube_url": "https://www.youtube.com/watch?v=BgKavVJaoNY&pp=ygUraSBsaWtlIHlvdSBtb3JlIGluIG15IGRyZWFtcyBoZWF0aGVyIHNvbW1lcg%3D%3D" },
-  { "id": "sad-10", "mood": "sad", "title": "Sandcastles", "artist": "Beyoncé", "youtube_url": "https://www.youtube.com/watch?v=RD38JT8rypY&pp=ygUTc2FuZGNhc3RsZXMgYmV5b25jZQ%3D%3D" },
-  { "id": "sad-11", "mood": "sad", "title": "Cranes in the Sky", "artist": "Solange", "youtube_url": "https://www.youtube.com/watch?v=S0qrinhNnOM&pp=ygUZY3JhbmVzIGluIHRoZSBza3kgc29sYW5nZQ%3D%3D" },
-  { "id": "sad-12", "mood": "sad", "title": "Alewife", "artist": "Clairo", "youtube_url": "https://www.youtube.com/watch?v=WBjmnqewTeo&pp=ygUOYWxld2lmZSBjbGFpcm8%3D" },
-
-  { "id": "chill-1", "mood": "chill", "title": "Not You Too", "artist": "Drake", "youtube_url": "https://www.youtube.com/watch?v=ZX_mvoY_Hg0" },
-  { "id": "chill-2", "mood": "chill", "title": "Snooze", "artist": "SZA", "youtube_url": "https://www.youtube.com/watch?v=LDY_XyxBu8A" },
-  { "id": "chill-3", "mood": "chill", "title": "7 Years", "artist": "Lukas Graham", "youtube_url": "https://www.youtube.com/watch?v=LHCob76kigA" },
-  { "id": "chill-4", "mood": "chill", "title": "Blue Ain't Your Color", "artist": "Keith Urban", "youtube_url": "https://www.youtube.com/watch?v=SoIKv3xxuMA" },
-  { "id": "chill-5", "mood": "chill", "title": "Eastside", "artist": "Benny Blanco", "youtube_url": " https://www.youtube.com/watch?v=56WBK4ZK_cw" },
-  { "id": "chill-6", "mood": "chill", "title": "Save Your Tears", "artist": "The Weeknd", "youtube_url": "https://www.youtube.com/watch?v=XXYlFuWEuKI" },
-  { "id": "chill-7", "mood": "chill", "title": "Wolves", "artist": "Selena Gomez", "youtube_url": "https://www.youtube.com/watch?v=cH4E_t3m3xM" },
-  { "id": "chill-8", "mood": "chill", "title": "Praise Jah in the Moonlight", "artist": "Yg Marley", "youtube_url": "https://www.youtube.com/watch?v=Kgh9TVm4X8s" },
-  { "id": "chill-9", "mood": "chill", "title": "Sunflower", "artist": "Post Malone & Swae Lee", "youtube_url": "https://www.youtube.com/watch?v=3E78T8h5EhA"},
-  { "id": "chill-10", "mood": "chill", "title": "Ashton Martin Music", "artist": "Rick Ross", "youtube_url": "https://www.youtube.com/watch?v=Iu9xmEaHwpU" },
-  { "id": "chill-11", "mood": "chill", "title": "Chandelier", "artist": "Sia", "youtube_url": "https://www.youtube.com/watch?v=2vjPBrBU-TM" },
-  { "id": "chill-12", "mood": "chill", "title": "Coffee", "artist": "Miguel", "youtube_url": "https://www.youtube.com/watch?v=9Z55sZ2oVY4" },
-
- 
-  { "id": "angry-1", "mood": "angry", "title": "I Knew You Were Trouble", "artist": "Taylor Swift", "youtube_url": "https://youtu.be/vNoKguSdy4Y?si=iqhHk6FIL5W0n2Ck" },
-  { "id": "angry-2", "mood": "angry", "title": "IDFWU", "artist": "Big Sean", "youtube_url": "https://www.youtube.com/watch?v=cZaJYDPY-YQ" },
-  { "id": "angry-3", "mood": "angry", "title": "Say Goodbye", "artist": "Chris Brown", "youtube_url": "https://youtu.be/GJ26gAc7BtU?si=sstVAIaVoo2pMYg5" },
-  { "id": "angry-4", "mood": "angry", "title": "Take a Bow", "artist": "Rihanna", "youtube_url": "https://youtu.be/J3UjJ4wKLkg?si=uRbihTkk08I1cxzD" },
-  { "id": "angry-5", "mood": "angry", "title": "So What", "artist": "P!nk", "youtube_url": "https://youtu.be/FJfFZqTlWrQ?si=spLjIQuDhJaEceSr" },
-  { "id": "angry-6", "mood": "angry", "title": "Before He Cheats", "artist": "Carrie Underwood", "youtube_url": "https://youtu.be/WaSy8yy-mr8?si=XYDQxxS3XtAr0U0U" },
-  { "id": "angry-7", "mood": "angry", "title": "Bust Your Windows", "artist": "Jazmine Sullivan", "youtube_url": "https://youtu.be/energy7" },
-  { "id": "angry-8", "mood": "angry", "title": "Lose Yourself", "artist": "Eminem", "youtube_url": "https://youtu.be/mOzdfaEPaR0?si=VTLCKNP1rR-Y3UKD" },
-  { "id": "angry-9", "mood": "angry", "title": "I Hope", "artist": "Gabby Barret", "youtube_url": "https://youtu.be/qcCH6JpcK5w?si=hYAcQP4JAH3ZBZng" },
-  { "id": "angry-10", "mood": "angry", "title": "Divine", "artist": "All That Remains", "youtube_url": "https://youtu.be/01rW8JxwpO8?si=qv3AieP33ljboaW_" },
-  { "id": "angry-11", "mood": "angry", "title": "I'm Upset", "artist": "Drake", "youtube_url": "https://youtu.be/6wstheXsdUk?si=Xia6RxYqOX5dwGIt" },
-  { "id": "angry-12", "mood": "angry", "title": "Mad", "artist": "Ne-Yo", "youtube_url": "https://youtu.be/sAYuOc7_TKg?si=w1wo7flerffOYWZm" }
+{
+    "happy": [
+        {
+            "id": 1,
+            "mood": "happy",
+            "title": "Happy",
+            "artist": "Pharrell Williams",
+            "youtube_link": "https://www.youtube.com/watch?v=ZbZSe6N_BXs&pp=ygUOaGFwcHkgcGhhcnJlbGw%3D"
+        },
+        {
+            "id": 2,
+            "mood": "happy",
+            "title": "Blinding Lights",
+            "artist": "The Weeknd",
+            "youtube_link": "https://www.youtube.com/watch?v=fHI8X4OXluQ&pp=ygUcYmxpbmRpbmcgbGlnaHRzIC0gdGhlIHdlZWtuZA%3D%3D"
+        },
+        {
+            "id": 3,
+            "mood": "happy",
+            "title": "heart beats better",
+            "artist": "lovelytheband",
+            "youtube_link": "https://www.youtube.com/watch?v=9tdS6dyfmzQ&pp=ygUSaGVhcnQgYmVhdHMgYmV0dGVy"
+        },
+        {
+            "id": 4,
+            "mood": "happy",
+            "title": "Good Life",
+            "artist": "Kanye West ft. T-Pain",
+            "youtube_link": "https://www.youtube.com/watch?v=FEKEjpTzB0Q&pp=ygUUZ29vZCBsaWZlIGthbnllIHdlc3Q%3D"
+        },
+        {
+            "id": 5,
+            "mood": "happy",
+            "title": "Let the Groove Get In",
+            "artist": "Justin Timberlake",
+            "youtube_link": "https://www.youtube.com/watch?v=K8JyRko65L8&pp=ygUnbGV0IHRoZSBncm9vdmUgZ2V0IGluIGp1c3RpbiB0aW1iZXJsYWtl0gcJCbAJAYcqIYzv"
+        },
+        {
+            "id": 6,
+            "mood": "happy",
+            "title": "Starships",
+            "artist": "Nicki Minaj",
+            "youtube_link": "https://www.youtube.com/watch?v=SeIJmciN8mo&pp=ygUVc3RhcnNoaXBzIG5pY2tpIG1pbmFq"
+        },
+        {
+            "id": 7,
+            "mood": "happy",
+            "title": "My House",
+            "artist": "Flo Rida",
+            "youtube_link": "https://www.youtube.com/watch?v=uo35R9zQsAI&pp=ygURbXkgaG91c2UgZmxvIHJpZGHSBwkJsAkBhyohjO8%3D"
+        },
+        {
+            "id": 8,
+            "mood": "happy",
+            "title": "I Like You (A Happier Song)",
+            "artist": "Post Malone ft. Doja Cat",
+            "youtube_link": "https://www.youtube.com/watch?v=7aekxC_monc&pp=ygUWaSBsaWtlIHlvdSBwb3N0IG1hbG9uZdIHCQmwCQGHKiGM7w%3D%3D"
+        },
+        {
+            "id": 9,
+            "mood": "happy",
+            "title": "XO",
+            "artist": "Beyoncé",
+            "youtube_link": "https://www.youtube.com/watch?v=3xUfCUFPL-8&pp=ygUKeG8gYmV5b25jZQ%3D%3D"
+        },
+        {
+            "id": 10,
+            "mood": "happy",
+            "title": "Pocketful of Sunshine",
+            "artist": "Natasha Bedingfield",
+            "youtube_link": "https://www.youtube.com/watch?v=gte3BoXKwP0&pp=ygUVcG9ja2V0ZnVsIG9mIHN1bnNoaW5l"
+        },
+        {
+            "id": 11,
+            "mood": "happy",
+            "title": "Confident",
+            "artist": "Justin Bieber ft. Chance the Rapper",
+            "youtube_link": "https://www.youtube.com/watch?v=47YClVMlthI&pp=ygUXY29uZmlkZW50IGp1c3RpbiBiaWViZXI%3D"
+        },
+        {
+            "id": 12,
+            "mood": "happy",
+            "title": "Agua",
+            "artist": "Tainy & J Balvin",
+            "youtube_link": "https://www.youtube.com/watch?v=QLz9VaksClg&pp=ygUTYWd1YSB0YWlueSBqIGJhbHZpbg%3D%3D"
+        }
+    ],
+    "sad": [
+    {
+        "id": 13,
+        "mood": "Sad",
+        "title": "when the party's over",
+        "artist": "Billie Eilish",
+        "youtube_link": "https://www.youtube.com/watch?v=pbMwTqkKSps&pp=ygUjd2hlbiB0aGUgcGFydHkncyBvdmVyIGJpbGxpZSBlaWxpc2g%3D"
+    },
+    {
+        "id": 14,
+        "mood": "Sad",
+        "title": "The Birds Pt. 2",
+        "artist": "The Weeknd",
+        "youtube_link": "https://www.youtube.com/watch?v=9FE-Pwm2cyc&pp=ygUZdGhlIGJpcmRzIHB0IDIgdGhlIHdlZWtuZA%3D%3D"
+    },
+    {
+        "id": 15,
+        "mood": "Sad",
+        "title": "Grieving",
+        "artist": "Kehlani ft. James Blake",
+        "youtube_link": "https://www.youtube.com/watch?v=E6_3X3ofJVg&pp=ygUQa2VobGFuaSBncmlldmluZw%3D%3D"
+    },
+    {
+        "id": 16,
+        "mood": "Sad",
+        "title": "Bad News",
+        "artist": "Kanye West",
+        "youtube_link": "https://www.youtube.com/watch?v=1BlH1JZBeXI&pp=ygUTYmFkIG5ld3Mga2FueWUgd2VzdA%3D%3D"
+    },
+    {
+        "id": 17,
+        "mood": "Sad",
+        "title": "Bad Religion",
+        "artist": "Frank Ocean",
+        "youtube_link": "https://www.youtube.com/watch?v=JMpypbtrcCg&pp=ygUYYmFkIHJlbGlnaW9uIGZyYW5rIG9jZWFu"
+    },
+    {
+        "id": 18,
+        "mood": "Sad",
+        "title": "Ten",
+        "artist": "Johnny Rain",
+        "youtube_link": "https://www.youtube.com/watch?v=LTxALOGNHX0&pp=ygUPam9obm55IHJhaW4gdGVu"
+    },
+    {
+        "id": 19,
+        "mood": "Sad",
+        "title": "Do Better",
+        "artist": "Ab-Soul",
+        "youtube_link": "https://www.youtube.com/watch?v=baTxdSdYR5E&pp=ygURZG8gYmV0dGVyIGFiIHNvdWw%3D"
+    },
+    {
+        "id": 20,
+        "mood": "Sad",
+        "title": "I Am Not Okay",
+        "artist": "Jelly Roll",
+        "youtube_link": "https://www.youtube.com/watch?v=Qop5XLgwkNc&pp=ygUYamVsbHkgcm9sbCBpIGFtIG5vdCBva2F5"
+    },
+    {
+        "id": 21,
+        "mood": "Sad",
+        "title": "i like you more in my dreams",
+        "artist": "Heather Sommer",
+        "youtube_link": "https://www.youtube.com/watch?v=BgKavVJaoNY&pp=ygUraSBsaWtlIHlvdSBtb3JlIGluIG15IGRyZWFtcyBoZWF0aGVyIHNvbW1lcg%3D%3D"
+    },
+    {
+        "id": 22,
+        "mood": "Sad",
+        "title": "Sandcastles",
+        "artist": "Beyoncé",
+        "youtube_link": "https://www.youtube.com/watch?v=RD38JT8rypY&pp=ygUTc2FuZGNhc3RsZXMgYmV5b25jZQ%3D%3D"
+    },
+    {
+        "id": 23,
+        "mood": "Sad",
+        "title": "Cranes in the Sky",
+        "artist": "Solange",
+        "youtube_link": "https://www.youtube.com/watch?v=S0qrinhNnOM&pp=ygUZY3JhbmVzIGluIHRoZSBza3kgc29sYW5nZQ%3D%3D"
+    },
+    {
+        "id": 24,
+        "mood": "Sad",
+        "title": "Alewife",
+        "artist": "Clairo",
+        "youtube_link": "https://www.youtube.com/watch?v=WBjmnqewTeo&pp=ygUOYWxld2lmZSBjbGFpcm8%3D"
+    }
+],
+"chill": [
+    {
+        "id": 25,
+        "mood": "Chill",
+        "title": "Not You Too",
+        "artist": "Drake ft. Chris Brown",
+        "youtube_link": "https://www.youtube.com/watch?v=ZX_mvoY_Hg0&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=1&pp=iAQB8AUB"
+    },
+    {
+        "id": 26,
+        "mood": "Chill",
+        "title": "Snooze",
+        "artist": "SZA",
+        "youtube_link": "https://www.youtube.com/watch?v=Sv5yCzPCkv8&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=2&pp=iAQB8AUB"
+    },
+    {
+        "id": 27,
+        "mood": "Chill",
+        "title": "7 Years",
+        "artist": "Lukas Graham",
+        "youtube_link": "https://www.youtube.com/watch?v=LHCob76kigA&pp=ygUUNyB5ZWFycyBsdWthcyBncmFoYW0%3D"
+    },
+    {
+        "id": 28,
+        "mood": "Chill",
+        "title": "Blue Ain't Your Color",
+        "artist": "Keith Urban",
+        "youtube_link": "https://www.youtube.com/watch?v=SoIKv3xxuMA&pp=ygUhYmx1ZSBhaW4ndCB5b3VyIGNvbG9yIGtlaXRoIHVyYmFu"
+    },
+    {
+        "id": 29,
+        "mood": "Chill",
+        "title": "Eastside",
+        "artist": "benny blanco, Halsey, & Khalid",
+        "youtube_link": "https://www.youtube.com/watch?v=56WBK4ZK_cw&pp=ygUVZWFzdHNpZGUgYmVubnkgYmxhbmNv"
+    },
+    {
+        "id": 30,
+        "mood": "Chill",
+        "title": "Save Your Tears",
+        "artist": "The Weeknd",
+        "youtube_link": "https://www.youtube.com/watch?v=XXYlFuWEuKI&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=6&pp=iAQB8AUB"
+    },
+    {
+        "id": 31,
+        "mood": "Chill",
+        "title": "Wolves",
+        "artist": "Selena Gomaz, Marshmello",
+        "youtube_link": "https://www.youtube.com/watch?v=cH4E_t3m3xM&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=7&pp=iAQB8AUB"
+    },
+    {
+        "id": 32,
+        "mood": "Chill",
+        "title": "Praise Jah in the Moonlight",
+        "artist": "YG Marley",
+        "youtube_link": "https://www.youtube.com/watch?v=Kgh9TVm4X8s&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=8&pp=iAQB8AUB"
+    },
+    {
+        "id": 33,
+        "mood": "Chill",
+        "title": "Sunflower",
+        "artist": "Post Malone & Swae Lee",
+        "youtube_link": "https://www.youtube.com/watch?v=3E78T8h5EhA&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=9&pp=iAQB8AUB"
+    },
+    {
+        "id": 34,
+        "mood": "Chill",
+        "title": "Jumbotron Shit Poppin",
+        "artist": "Drake",
+        "youtube_link": "https://www.youtube.com/watch?v=Iu9xmEaHwpU&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=10&pp=iAQB8AUB"
+    },
+    {
+        "id": 35,
+        "mood": "Chill",
+        "title": "Chandelier",
+        "artist": "Sia",
+        "youtube_link": "https://www.youtube.com/watch?v=2vjPBrBU-TM&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=11&pp=iAQB8AUB"
+    },
+    {
+        "id": 36,
+        "mood": "Chill",
+        "title": "Coffee",
+        "artist": "Miguel",
+        "youtube_link": "https://www.youtube.com/watch?v=9Z55sZ2oVY4&list=PLlNqdmuoYTK2LjyHwuiBH0EWyOSK3cefQ&index=12&pp=iAQB8AUB"
+    }
+],
+"angry": [
+    {
+        "id": 37,
+        "mood": "Angry",
+        "title": "I Knew You Were Trouble",
+        "artist": "Taylor Swift",
+        "youtube_link": "https://www.youtube.com/watch?v=vNoKguSdy4Y&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=1&pp=iAQB8AUB"
+    },
+    {
+        "id": 38,
+        "mood": "Angry",
+        "title": "I Don't Fuck With You",
+        "artist": "Big Sean",
+        "youtube_link": "https://www.youtube.com/watch?v=cZaJYDPY-YQ&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=2&pp=iAQB8AUB"
+    },
+    {
+        "id": 39,
+        "mood": "Angry",
+        "title": "Say Goodbye",
+        "artist": "Chris Brown",
+        "youtube_link": "https://www.youtube.com/watch?v=GJ26gAc7BtU&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=3&pp=iAQB8AUB0gcJCY0JAYcqIYzv"
+    },
+    {
+        "id": 40,
+        "mood": "Angry",
+        "title": "Take A Bow",
+        "artist": "Rihanna",
+        "youtube_link": "https://www.youtube.com/watch?v=J3UjJ4wKLkg&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=4&pp=iAQB8AUB"
+    },
+    {
+        "id": 41,
+        "mood": "Angry",
+        "title": "So What",
+        "artist": "P!nk",
+        "youtube_link": "https://www.youtube.com/watch?v=FJfFZqTlWrQ&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=5&pp=iAQB8AUB"
+    },
+    {
+        "id": 42,
+        "mood": "Angry",
+        "title": "Before He Cheats",
+        "artist": "Carrie Underwood"
+    },
+    {
+        "id": 43,
+        "mood": "Angry",
+        "title": "Bust Your Windows",
+        "artist": "Jazmine Sullivan",
+        "youtube_link": "https://www.youtube.com/watch?v=mOzdfaEPaR0&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=7&pp=iAQB8AUB"
+    },
+    {
+        "id": 44,
+        "mood": "Angry",
+        "title": "Lose Yourself",
+        "artist": "Eminem",
+        "youtube_link": "https://www.youtube.com/watch?v=xFYQQPAOz7Y&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=8&pp=iAQB8AUB"
+    },
+    {
+        "id": 45,
+        "mood": "Angry",
+        "title": "Mad",
+        "artist": "Ne-Yo",
+        "youtube_link": "https://www.youtube.com/watch?v=sAYuOc7_TKg&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=9&pp=iAQB8AUB"
+    },
+    {
+        "id": 46,
+        "mood": "Angry",
+        "title": "I Hope",
+        "artist": "Gabby Barrett",
+        "youtube_link": "https://www.youtube.com/watch?v=qcCH6JpcK5w&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=10&pp=iAQB8AUB"
+    },
+    {
+        "id": 47,
+        "mood": "Angry",
+        "title": "Divine",
+        "artist": "All That Remains",
+        "youtube_link": "https://www.youtube.com/watch?v=01rW8JxwpO8&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=11&pp=iAQB8AUB"
+    },
+    {
+        "id": 48,
+        "mood": "Angry",
+        "title": "I'm Upset",
+        "artist": "Drake",
+        "youtube_link": "https://www.youtube.com/watch?v=6wstheXsdUk&list=PLlNqdmuoYTK1enEGuuvr3fPohSNDrUBlV&index=12&pp=iAQB8AUB0gcJCY0JAYcqIYzv"
+    }
 ]
+    
+}
